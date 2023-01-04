@@ -3,7 +3,7 @@ This is a small Python Project made so I can see when the next ION leaves from a
 
 Instructions for use:
 
-1. Sign up for a Google Maps API key. This is needed to run the program. API keys can be acquired following this guide         https://developers.google.com/maps/documentation/javascript/get-api-key
+1. Sign up for a Google Maps API key. This is needed to run the program. API keys can be acquired following this guide:         https://developers.google.com/maps/documentation/javascript/get-api-key
 
 2. Install the Python Google Maps API Library:
 ~~~
